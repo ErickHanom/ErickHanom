@@ -1,9 +1,10 @@
 ## Hello Person 👋, be welcome to the my world!!!
  *Meu nome é Erick, sou aluno no Ford Enter e por essa oportunidade estou começando a minha carreira no mundo digital, sou muito curioso quando o assunto é aprender, tento sempre ser claro e dinâmico nos códigos, desing, e visualização para o visitante, irei começar a postar todos os meus avanços e aprendizados nesta página, aos repositórios públicos estou aceitando dicas e conselhos para melhor estruturação dos projetos, e para adquirir experiência*
- 
+
+ <div style="display: inline_block"><br>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickHanom&show_icons=true&theme=monokai">  
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickHanom&layout=compact&langs-count=168&theme=transparent">
-
+</div>
 
   
  ### Conteúdos em Processo de Aprendizagem ✍ :
